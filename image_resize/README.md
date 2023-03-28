@@ -1,4 +1,5 @@
 <samp>
+
 # Image Resize Bot
 
 Bot for resizing images to a given height and width. I had to make this because

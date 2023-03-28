@@ -1,4 +1,5 @@
 <samp>
+
 # GitHub Status
 
 Bot for posting real-time status updates of GitHub systems in a Telegram chat. A

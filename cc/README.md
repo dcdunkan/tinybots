@@ -12,11 +12,12 @@ to be in the group - that's a goal.
 @pinging is enough, of course. But it doesn't work for the users that are not in
 the group.
 
-#### CC? HOW??
+**Example message**:
 
-Example message:
-
-Seems like a possible fix for the issue. /cc @user1 text_mention_of_user2.
+```
+Seems like a possible fix for the issue.
+/cc @user1 text_mention_of_user2.
+```
 
 (Or you can /cc as a reply message.)
 
