@@ -34,7 +34,7 @@ serve(async (req) => {
     const message = [
       `<b>${escape(name)}</b>`,
       ...(incident_updates.length === 1 // if its the first one.
-        ? [`https://githubstatus.com/incidents/${id}`]
+        ? [`https://www.githubstatus.com/incidents/${id}`]
         : []),
       `${update.status[0].toUpperCase() + update.status.substring(1)}`,
       `${escape(update.body) ?? ""}`,
