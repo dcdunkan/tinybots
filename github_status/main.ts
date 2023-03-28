@@ -23,7 +23,7 @@ serve(async (req) => {
       `<b>${escape(name)}</b>`,
       `${component_update.old_status} → ${component_update.new_status}`,
       `${escape(description)}`,
-      `${new Date(component_update.created_at).toLocaleString()}`,
+      // `${new Date(component_update.created_at).toLocaleString()}`,
     ].join("\n");
 
     await send(message);
