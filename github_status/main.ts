@@ -35,7 +35,7 @@ serve(async (req) => {
       `<a href="https://www.githubstatus.com/incidents/${id}"><b>${escape(name)}</b></a>`,
       `${update.status[0].toUpperCase() + update.status.substring(1)}`,
       `${escape(update.body) ?? ""}`,
-      `${new Date(update.created_at).toLocaleString()}`,
+      // `${new Date(update.created_at).toLocaleString()}`,
     ].join("\n");
 
     await send(message);
