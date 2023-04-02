@@ -1,5 +1,3 @@
-<samp>
-
 > INCOMPLETE. WIP
 
 # cc (carbon-copy) Bot
@@ -27,5 +25,3 @@ command.
 ### Environment Variables (1)
 
 - `BOT_TOKEN`: Get one from https://t.me/BotFather.
-
-</samp>

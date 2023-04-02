@@ -1,5 +1,3 @@
-<samp>
-
 # GitHub Status
 
 Bot for posting real-time status updates of GitHub systems in a Telegram chat. A
@@ -15,5 +13,3 @@ Running instance: <https://t.me/status_gh>
   chat, make sure the bot has enough permissions to send a message.
 - `SECRET`: Any string just for making sure that anyone else other than
   githubstatus.com can POST to server.
-
-</samp>

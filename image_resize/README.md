@@ -1,5 +1,3 @@
-<samp>
-
 # Image Resize Bot
 
 Bot for resizing images to a given height and width. I had to make this because
@@ -15,5 +13,3 @@ was born. I made it ready for more general purpose use. Never hosted it tho.
 ### Environment Variables (1)
 
 - `BOT_TOKEN`: Get one from <https://t.me/BotFather>.
-
-</samp>

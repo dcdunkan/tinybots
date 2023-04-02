@@ -1,5 +1,3 @@
-<samp>
-
 > DON'T USE THIS YET, ITS A WORK IN PROGRESS.
 
 #### TODO(2):
@@ -37,5 +35,3 @@ which forces them to use/install a supported client just to clear the CAPTCHA :P
 ### Environment Variables (1)
 
 - BOT_TOKEN: Get one from <https://t.me/BotFather>.
-
-</samp>

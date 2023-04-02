@@ -32,7 +32,9 @@ serve(async (req) => {
     const update = incident_updates[0];
 
     const message = [
-      `<a href="https://www.githubstatus.com/incidents/${id}"><b>${escape(name)}</b></a>`,
+      `<a href="https://www.githubstatus.com/incidents/${id}"><b>${
+        escape(name)
+      }</b></a>`,
       `${update.status[0].toUpperCase() + update.status.substring(1)}`,
       `${escape(update.body) ?? ""}`,
       // `${new Date(update.created_at).toLocaleString()}`,
