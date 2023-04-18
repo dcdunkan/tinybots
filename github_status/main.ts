@@ -58,8 +58,11 @@ function send(text: string) {
   });
 }
 
-function escape(str: string) {
-  return str.replace("<", "&lt;").replace(">", "&gt;").replace("&", "&amp;");
+function escape(text: string) {
+  return text
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
 }
 
 // Documentation of the webhook payload:
