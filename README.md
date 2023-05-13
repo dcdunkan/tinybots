@@ -1,4 +1,4 @@
-### Introduction
+#### Introduction
 
 Hi. I'm Dunkan and this is where I keep my small Telegram bots. Most of
 them might be incomplete in code, but I try to write about the idea of that bot
@@ -10,7 +10,7 @@ you managed to complete, consider opening a pull request with a link to it.
 If you are interested, you can join [the Telegram channel](https://t.me/dcbots)
 where I post about the bots that I create and host.
 
-### List of the bots that currently lives in this repository
+#### List of the bots that currently lives in this repository
 
 - [GitHub Status](./github_status): A bot for posting real-time status of GitHub systems. Join https://t.me/status_gh if you want to get the updates.
 - [Image Resizer](./image_resize): Very basic bot for resizing an image to given dimensions.
@@ -19,7 +19,7 @@ where I post about the bots that I create and host.
 - [Slash CC](./cc): Carbon-copy your message to the mentioned ones even if they are not in the group.
 - [Fold](./fold): Fold your files into a single link with optional password protection.
 
-### There is MOAR
+#### There is more.
 
 I have also created a few other bots.
 
