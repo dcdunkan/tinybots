@@ -39,9 +39,8 @@ I have also created a few other bots.
 - [Deno News Bot](https://github.com/dcdunkan/deno-bot):
   A bot for posting news related to Deno, fetched from several sources. Join the channel: https://t.me/deno_news
 
----
 
-<p align="center">
+<div align="center">
 
 Licensed under MIT &copy; 2023
-</p>
+</div>
