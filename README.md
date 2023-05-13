@@ -15,9 +15,8 @@ where I post about the bots that I create and host.
 List of the bots that currently lives in this repository.
 
 - [GitHub Status](./github_status)
-
-  A bot for posting real-time status of GitHub systems. Join
-  [the demo channel](https://t.me/status_gh) if you want to get the updates.
+    A bot for posting real-time status of GitHub systems. Join
+    [the demo channel](https://t.me/status_gh) if you want to get the updates.
 - [Image Resizer](./image_resize)
 
   Very basic bot for resizing image to given dimensions.
