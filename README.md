@@ -41,4 +41,7 @@ I have also created a few other bots.
 
 ---
 
-Licensed Under MIT | (c) 2023 | Dunkan
+<p align="center">
+
+Licensed under MIT &copy; 2023
+</p>
