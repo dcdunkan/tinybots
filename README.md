@@ -2,9 +2,8 @@
 
 Hi. I'm Dunkan and this is where I keep my small Telegram bots. Most of
 them might be incomplete in code, but I try to write about the idea of that bot
-in their respective READMEs, as this is also a place for plotting the ideas.
-
-Feel free to take the work-in-progress bots or the raw ideas, if you like it. If
+in their respective READMEs, as this is also a place for plotting the ideas. 
+Feel free to take the work-in-progress bots or the raw ideas, if you liked it. If
 you managed to complete, consider opening a pull request with a link to it.
 
 If you are interested, you can join [the Telegram channel](https://t.me/dcbots)
